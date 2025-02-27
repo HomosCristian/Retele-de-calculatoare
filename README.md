@@ -1,6 +1,7 @@
 # Retele de calculatoare
 
 ## **Seminar (3 puncte)**
+NU SE TINE CONT DE PREZENTA
 
 ### **1. Test pe calculator (1.5p)**
 - Server TCP/UDP
@@ -12,6 +13,7 @@
 - Aplicație client-server pe teme impuse
 - Aceleași teme ca anul trecut
 - Utilizare de socket-uri și servicii
+- Putem folosi ce limbaj vrem noi
 
 ---
 
