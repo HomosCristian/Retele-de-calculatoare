@@ -2,11 +2,13 @@
 
 ## **Seminar (3 puncte)**
 
-### **1. Test pe calculator (1p)**
+### **1. Test pe calculator (1.5p)**
 - Server TCP/UDP
 - Evaluare practică
+- Saptamana 8/9
+- Openbook
 
-### **2. Proiect in echipe de câte 3 (2p)**
+### **2. Proiect in echipe de câte 3 (1.5p)**
 - Aplicație client-server pe teme impuse
 - Aceleași teme ca anul trecut
 - Utilizare de socket-uri și servicii
