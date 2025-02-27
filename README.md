@@ -14,6 +14,7 @@ NU SE TINE CONT DE PREZENTA
 - Aceleași teme ca anul trecut
 - Utilizare de socket-uri și servicii
 - Putem folosi ce limbaj vrem noi
+- Se prezinta in ultima saptamana
 
 ---
 
